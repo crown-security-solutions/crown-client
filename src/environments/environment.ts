@@ -4,7 +4,7 @@
 
 export const environment = {
 	production: false,
-	apiUrl: 'https://enigmatic-mesa-10751.herokuapp.com/api',
+	apiUrl: 'https://csai-server.herokuapp.com/api',
 	// apiUrl: 'http://localhost:4300/api',
 	noChance: 'Crown security Secret'
 };
